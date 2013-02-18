@@ -819,7 +819,7 @@
     <string name="keyguard_accessibility_user_selector" msgid="1226798370913698896">"Выбор аккаунта"</string>
     <string name="keyguard_accessibility_status" msgid="8008264603935930611">"Статус"</string>
     <string name="keyguard_accessibility_camera" msgid="8904231194181114603">"Камера"</string>
-    <string name="keygaurd_accessibility_media_controls" msgid="262209654292161806">"Управление блокировкой"</string>
+    <string name="keyguard_accessibility_media_controls" msgid="262209654292161806">"Управление блокировкой"</string>
     <string name="keyguard_accessibility_widget_reorder_start" msgid="8736853615588828197">"Начато переопределение порядка виджетов"</string>
     <string name="keyguard_accessibility_widget_reorder_end" msgid="7170190950870468320">"Порядок виджетов определен"</string>
     <string name="keyguard_accessibility_widget_deleted" msgid="4426204263929224434">"Виджет <xliff:g id="WIDGET_INDEX">%1$s</xliff:g> удален"</string>
@@ -1462,8 +1462,8 @@
     <string name="reboot_system" product="default">Перезагрузка телефона</string>
     <string name="global_action_screenshot">Скриншот</string>
     <string name="global_actions_toggle_expanded_desktop_mode">Расширенный экран</string>
-    <string name="global_actions_expanded_desktop_mode_on_status">Включен</string>
-    <string name="global_actions_expanded_desktop_mode_off_status">Выключен</string>
+    <string name="global_actions_expanded_desktop_mode_on_status">Выключить</string>
+    <string name="global_actions_expanded_desktop_mode_off_status">Включить</string>
     <string name="reboot_reboot">Перезагрузка</string>
     <string name="reboot_progress">Перезагрузка\u2026</string>
     <string name="reboot_confirm">Ваш телефон будет перезагружен</string>
